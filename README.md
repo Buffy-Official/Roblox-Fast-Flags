@@ -1,4 +1,4 @@
-# Roblox-Fast-Flags
+<h1 align="center">Fast Flags</h1>
 
 <h2 align="center">Made by Stoof</h4>
 
