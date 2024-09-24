@@ -23,8 +23,8 @@
 3. **Paste in the JSON.**
 4. **Save and Close!**
 
-<img src="https://cdn.discordapp.com/attachments/1020368455578435634/1286458079944118394/image.png?ex=66edfaf3&is=66eca973&hm=dc9e2896894d70dfff3e26eb1fb43e8746466005f49715c9c1189c683852cc4d&" width="750"/>
-<img src="https://cdn.discordapp.com/attachments/1020368455578435634/1286458256646078568/image.png?ex=66edfb1d&is=66eca99d&hm=b98a0705a69fb01daf7acbb0ead1d8390edc06f7c6f0de9e5ded2353d00ec194&" width="750"/>
+<img src="https://cdn.discordapp.com/attachments/1020368455578435634/1286458079944118394/image.png?ex=66f49273&is=66f340f3&hm=a3c26e3c42d8554dc58e06f7dccad91f9c78951ea5f345d53b750837dd3562f6&" width="750"/>
+<img src="https://cdn.discordapp.com/attachments/1020368455578435634/1286458256646078568/image.png?ex=66f4929d&is=66f3411d&hm=0fbc8ac4096d0f54787d7ece3887588fffc43f21e00dd779bb5343010394ce02&" width="750"/>
 
 <h1 align="center">Rendering API</h1>
 
