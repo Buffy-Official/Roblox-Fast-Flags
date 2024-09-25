@@ -130,12 +130,6 @@
   "FFlagDisablePostFx": "True"
 }
 ```
-### Increased Particles On Low Graphics
-```json
-{
-  "FFlagDebugDeterministicParticles" : "True"
-}
-```
 ### Reduced Avatar Item Particle in FP
 ```json
 {
