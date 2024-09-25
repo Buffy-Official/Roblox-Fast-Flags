@@ -537,7 +537,8 @@ High
   "FFlagEnableMenuControlsABTest": "False",
   "FFlagEnableMenuModernizationABTest": "False",
   "FFlagEnableMenuModernizationABTest2": "False",
-  "FFlagEnableV3MenuABTest3": "False"
+  "FFlagEnableV3MenuABTest3": "False",
+  "FFlagFixReportButtonCutOff": "False"
 }
 ```
 ### V2 Menu
