@@ -960,12 +960,6 @@ High
   "FFlagEnableBubbleChatFromChatService": "False"
 }
 ```
-### Disable Camera & Selfview
-```json
-{
-  "FFlagSelfieViewEnabled": "True"
-}
-```
 ### Limit Videos Playing
 ```json
 {
