@@ -38,7 +38,6 @@
 ### Direct3D 10
 ```json
 {
-  "FFlagDebugGraphicsDisableDirect3D11": "True",
   "FFlagDebugGraphicsPreferD3D11FL10": "True",
   "FFlagGraphicsEnableD3D10Compute": "True"
 }
