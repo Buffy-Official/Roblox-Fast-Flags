@@ -643,8 +643,8 @@ High
 {
   "DFIntConnectionMTUSize": "1396",
   "DFIntRakNetMtuValue1InBytes": "1396",
-  "DFIntRakNetMtuValue2InBytes": "1396",
-  "DFIntRakNetMtuValue3InBytes": "1396"
+  "DFIntRakNetMtuValue2InBytes": "1337",
+  "DFIntRakNetMtuValue3InBytes": "1250"
 }
 ```
 
