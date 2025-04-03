@@ -478,7 +478,7 @@ High
   "FFlagNewCameraControls": "True"
 }
 ```
-### Removes Long Recommended Seciton In Homepage
+### Removes Long Recommended Section In Homepage
 ```json
 {
   "FIntGameGridFlexFeedItemTileNumPerFeed": "0"
